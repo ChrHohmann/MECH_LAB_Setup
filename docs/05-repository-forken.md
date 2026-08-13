@@ -16,7 +16,7 @@ Ein Fork ist eine eigenständige Kopie eines Repositories. Das Original der Modu
 
 > **Vor Veröffentlichung anpassen:** Ersetzen Sie den folgenden Platzhalter durch den direkten Link zum Labor-Repository.
 
-1. Öffnen Sie [das Labor-Repository – Link einsetzen](https://github.com/ChrHohmann).
+1. Öffnen Sie [das Labor-Repositor](https://github.com/ChrHohmann/MECH_LAB).
 2. Prüfen Sie, dass Sie angemeldet sind.
 3. Klicken Sie oben rechts auf **Fork**.
 4. Wählen Sie Ihr persönliches Konto als **Owner**.
