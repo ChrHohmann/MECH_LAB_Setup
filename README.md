@@ -16,15 +16,9 @@ Sie benötigen:
 Führen Sie alle Schritte in der angegebenen Reihenfolge aus. Gehen Sie erst
 weiter, wenn die Kontrolle am Ende einer Seite erfolgreich ist.
 
-## Betriebssystem wählen
+## Vorbereitungen für die Installation
 
-### Windows
-
-[Windows-Anleitung starten](docs/02-windows.md)
-
-### macOS
-
-[macOS-Anleitung starten](docs/03-macos.md)
+[Vorbereitung der Installation](docs/01-vorbereitung.md)
 
 ## Hilfe
 
