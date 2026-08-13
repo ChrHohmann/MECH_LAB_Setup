@@ -1,6 +1,3 @@
-# MECH_LAB_Setup
-Installation und Einrichtung der Entwicklungsumgebung für MECH_LAB_MM
-
 # MECH_LAB_MM – Entwicklungsumgebung einrichten
 
 Mit dieser Anleitung richten Sie Ihren Computer für die Laborübungen ein.
